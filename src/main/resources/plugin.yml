@@ -1,4 +1,7 @@
-name: untitled1dasadada
+name: WorldEditTest
 version: '${project.version}'
-main: org.test.untitled1.Untitled1dasadada
+main: org.test.untitled1.WorldEditTest
 api-version: 1.19
+commands:
+  paste:
+
