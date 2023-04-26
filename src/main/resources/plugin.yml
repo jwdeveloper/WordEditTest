@@ -1,0 +1,4 @@
+name: untitled1dasadada
+version: '${project.version}'
+main: org.test.untitled1.Untitled1dasadada
+api-version: 1.19
